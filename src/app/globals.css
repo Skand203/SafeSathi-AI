@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+/* Explicitly tell Tailwind v4 where to scan for class names
+   (required when Webpack's module graph doesn't trigger auto-detection) */
+@source "../**/*.{js,ts,jsx,tsx}";
+@source "./*.{js,ts,jsx,tsx}";
