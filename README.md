@@ -3,7 +3,6 @@
 **Bilingual AI-Powered Scam & Fraud Detection Platform for Senior Citizens**
 
 ![Next.js](https://img.shields.io/badge/Next.js-16%20(App%20Router)-black?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38bdf8?style=flat-square&logo=tailwindcss)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-Flash-4285F4?style=flat-square&logo=google)
 ![Web Speech API](https://img.shields.io/badge/Web_Speech_API-Bilingual_Voice-critical?style=flat-square)
